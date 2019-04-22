@@ -1,0 +1,664 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 396px;
+    height: 832px;
+    flex-direction: column
+  }
+  .style16 {
+    background-color: #484848;
+    opacity: .3100000023841858;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 0;
+    height: 0
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.0625em;
+    margin-top: 40px;
+    height: 21px;
+    align-self: center
+  }
+  .vehiclelocationmanagers1container1row2 {
+    display: flex;
+    margin-left: 10px;
+    margin-top: 23px;
+    width: 343px;
+    height: 84px
+  }
+  .style21 {
+    background-color: #484848;
+    opacity: .3100000023841858;
+    margin-left: 0;
+    margin-top: 11px;
+    width: 0;
+    height: 0
+  }
+  .style12,
+  .style7 {
+    background-color: #fff
+  }
+  .style12 {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-left: 33px;
+    align-self: stretch;
+    flex-direction: column;
+    width: 310px;
+    height: 100%
+  }
+  .style7 {
+    margin-top: 14px;
+    width: 0;
+    height: 0
+  }
+  .vehiclelocationmanagers1container1row2container11row1 {
+    display: flex;
+    margin-left: 13px;
+    margin-top: 3px;
+    width: 122px;
+    height: 50px;
+    align-items: center
+  }
+  .style15 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusk8glv.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-left: 0;
+    width: 50px;
+    height: 100%
+  }
+  .vehiclelocationmanagers1container1row2container11row1column1 {
+    display: flex;
+    margin-left: 20px;
+    width: 52px;
+    height: 43px;
+    flex-direction: column
+  }
+  .style13,
+  .style14 {
+    color: #484848;
+    font-family: sfuitext,serif;
+    font-size: .9375em;
+    margin-top: 0;
+    height: 19px
+  }
+  .style14 {
+    font-size: .6875em;
+    margin-top: 10px;
+    height: 14px
+  }
+  .style17 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 11px;
+    width: 310px;
+    height: 84px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagers1container1container14row0 {
+    display: flex;
+    margin-left: 13px;
+    width: 122px;
+    height: 50px;
+    align-items: center
+  }
+  .style20 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusk8h0s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-left: 0;
+    width: 50px;
+    height: 100%
+  }
+  .vehiclelocationmanagers1container1container14row0column1 {
+    display: flex;
+    margin-left: 20px;
+    width: 52px;
+    height: 43px;
+    flex-direction: column
+  }
+  .style18,
+  .style19 {
+    color: #484848;
+    font-family: sfuitext,serif;
+    font-size: .9375em;
+    margin-top: 0;
+    height: 19px
+  }
+  .style19 {
+    font-size: .6875em;
+    margin-top: 10px;
+    height: 14px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 811px;
+    height: 1704px;
+    flex-direction: column
+  }
+  .style16 {
+    background-color: #484848;
+    opacity: .3100000023841858;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 0;
+    height: 0
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.176em;
+    margin-top: 82px;
+    height: 43px;
+    align-self: center
+  }
+  .vehiclelocationmanagers1container1row2 {
+    display: flex;
+    margin-left: 20px;
+    margin-top: 47px;
+    width: 702px;
+    height: 172px
+  }
+  .style21 {
+    background-color: #484848;
+    opacity: .3100000023841858;
+    margin-left: 0;
+    margin-top: 23px;
+    width: 0;
+    height: 0
+  }
+  .style12,
+  .style7 {
+    background-color: #fff
+  }
+  .style12 {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-left: 68px;
+    align-self: stretch;
+    flex-direction: column;
+    width: 635px;
+    height: 100%
+  }
+  .style7 {
+    margin-top: 29px;
+    width: 0;
+    height: 0
+  }
+  .vehiclelocationmanagers1container1row2container11row1 {
+    display: flex;
+    margin-left: 27px;
+    margin-top: 6px;
+    width: 250px;
+    height: 102px;
+    align-items: center
+  }
+  .style15 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusk8glv.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-left: 0;
+    width: 102px;
+    height: 100%
+  }
+  .vehiclelocationmanagers1container1row2container11row1column1 {
+    display: flex;
+    margin-left: 41px;
+    width: 106px;
+    height: 88px;
+    flex-direction: column
+  }
+  .style13,
+  .style14 {
+    color: #484848;
+    font-family: sfuitext,serif;
+    font-size: 1.92em;
+    margin-top: 0;
+    height: 39px
+  }
+  .style14 {
+    font-size: 1.408em;
+    margin-top: 20px;
+    height: 29px
+  }
+  .style17 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 23px;
+    width: 635px;
+    height: 172px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagers1container1container14row0 {
+    display: flex;
+    margin-left: 27px;
+    width: 250px;
+    height: 102px;
+    align-items: center
+  }
+  .style20 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusk8h0s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-left: 0;
+    width: 102px;
+    height: 100%
+  }
+  .vehiclelocationmanagers1container1container14row0column1 {
+    display: flex;
+    margin-left: 41px;
+    width: 106px;
+    height: 88px;
+    flex-direction: column
+  }
+  .style18,
+  .style19 {
+    color: #484848;
+    font-family: sfuitext,serif;
+    font-size: 1.92em;
+    margin-top: 0;
+    height: 39px
+  }
+  .style19 {
+    font-size: 1.408em;
+    margin-top: 20px;
+    height: 29px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 972px;
+    height: 2041px;
+    flex-direction: column
+  }
+  .style16 {
+    background-color: #484848;
+    opacity: .3100000023841858;
+    margin-left: 25px;
+    margin-top: 25px;
+    width: 0;
+    height: 0
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.6066666666666665em;
+    margin-top: 98px;
+    height: 52px;
+    align-self: center
+  }
+  .vehiclelocationmanagers1container1row2 {
+    display: flex;
+    margin-left: 25px;
+    margin-top: 56px;
+    width: 841px;
+    height: 206px
+  }
+  .style21 {
+    background-color: #484848;
+    opacity: .3100000023841858;
+    margin-left: 0;
+    margin-top: 27px;
+    width: 0;
+    height: 0
+  }
+  .style12,
+  .style7 {
+    background-color: #fff
+  }
+  .style12 {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-left: 81px;
+    align-self: stretch;
+    flex-direction: column;
+    width: 761px;
+    height: 100%
+  }
+  .style7 {
+    margin-top: 34px;
+    width: 0;
+    height: 0
+  }
+  .vehiclelocationmanagers1container1row2container11row1 {
+    display: flex;
+    margin-left: 32px;
+    margin-top: 7px;
+    width: 299px;
+    height: 123px;
+    align-items: center
+  }
+  .style15 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusk8glv.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-left: 0;
+    width: 123px;
+    height: 100%
+  }
+  .vehiclelocationmanagers1container1row2container11row1column1 {
+    display: flex;
+    margin-left: 49px;
+    width: 128px;
+    height: 105px;
+    flex-direction: column
+  }
+  .style13,
+  .style14 {
+    color: #484848;
+    font-family: sfuitext,serif;
+    font-size: 2.3em;
+    margin-top: 0;
+    height: 47px
+  }
+  .style14 {
+    font-size: 1.6866666666666665em;
+    margin-top: 25px;
+    height: 34px
+  }
+  .style17 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 27px;
+    width: 761px;
+    height: 206px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagers1container1container14row0 {
+    display: flex;
+    margin-left: 32px;
+    width: 299px;
+    height: 123px;
+    align-items: center
+  }
+  .style20 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusk8h0s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-left: 0;
+    width: 123px;
+    height: 100%
+  }
+  .vehiclelocationmanagers1container1container14row0column1 {
+    display: flex;
+    margin-left: 49px;
+    width: 128px;
+    height: 105px;
+    flex-direction: column
+  }
+  .style18,
+  .style19 {
+    color: #484848;
+    font-family: sfuitext,serif;
+    font-size: 2.3em;
+    margin-top: 0;
+    height: 47px
+  }
+  .style19 {
+    font-size: 1.6866666666666665em;
+    margin-top: 25px;
+    height: 34px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1267px;
+    height: 2662px;
+    flex-direction: column
+  }
+  .style16 {
+    background-color: #484848;
+    opacity: .3100000023841858;
+    margin-left: 32px;
+    margin-top: 32px;
+    width: 0;
+    height: 0
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 3.4000000000000004em;
+    margin-top: 128px;
+    height: 67px;
+    align-self: center
+  }
+  .vehiclelocationmanagers1container1row2 {
+    display: flex;
+    margin-left: 32px;
+    margin-top: 74px;
+    width: 1098px;
+    height: 269px
+  }
+  .style21 {
+    background-color: #484848;
+    opacity: .3100000023841858;
+    margin-left: 0;
+    margin-top: 35px;
+    width: 0;
+    height: 0
+  }
+  .style12,
+  .style7 {
+    background-color: #fff
+  }
+  .style12 {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-left: 106px;
+    align-self: stretch;
+    flex-direction: column;
+    width: 992px;
+    height: 100%
+  }
+  .style7 {
+    margin-top: 45px;
+    width: 0;
+    height: 0
+  }
+  .vehiclelocationmanagers1container1row2container11row1 {
+    display: flex;
+    margin-left: 42px;
+    margin-top: 10px;
+    width: 390px;
+    height: 160px;
+    align-items: center
+  }
+  .style15 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusk8glv.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-left: 0;
+    width: 160px;
+    height: 100%
+  }
+  .vehiclelocationmanagers1container1row2container11row1column1 {
+    display: flex;
+    margin-left: 64px;
+    width: 166px;
+    height: 138px;
+    flex-direction: column
+  }
+  .style13,
+  .style14 {
+    color: #484848;
+    font-family: sfuitext,serif;
+    font-size: 3em;
+    margin-top: 0;
+    height: 61px
+  }
+  .style14 {
+    font-size: 2.2em;
+    margin-top: 32px;
+    height: 45px
+  }
+  .style17 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 35px;
+    width: 992px;
+    height: 269px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagers1container1container14row0 {
+    display: flex;
+    margin-left: 42px;
+    width: 390px;
+    height: 160px;
+    align-items: center
+  }
+  .style20 {
+    background-image: url(https://designresources.assets.yotako.io/yjqwocjusk8h0s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+    margin-left: 0;
+    width: 160px;
+    height: 100%
+  }
+  .vehiclelocationmanagers1container1container14row0column1 {
+    display: flex;
+    margin-left: 64px;
+    width: 166px;
+    height: 138px;
+    flex-direction: column
+  }
+  .style18,
+  .style19 {
+    color: #484848;
+    font-family: sfuitext,serif;
+    font-size: 3em;
+    margin-top: 0;
+    height: 61px
+  }
+  .style19 {
+    font-size: 2.2em;
+    margin-top: 32px;
+    height: 45px
+  }
+}
